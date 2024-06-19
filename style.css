@@ -1,0 +1,23 @@
+.container {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+
+#color-box {
+	width: 600px;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	background-color: pink;
+	border: solid;
+	border-radius: 2%;
+}
+
+button {
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
